@@ -1,8 +1,8 @@
 # Improving Robustness Against Adversarial Example Attacks Using Non-Parametric Models on MNIST
 
-This repository contains the code for reproducibility of the following paper
-
 [Improving Robustness Against Adversarial Example Attacks Using Non-Parametric Models on MNIST](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9065264)
+
+by Sanghyeon An, Min Jun Lee, Jungmin So
 
 </br>
 
